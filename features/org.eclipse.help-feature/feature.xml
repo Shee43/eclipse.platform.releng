@@ -3,7 +3,7 @@
 <feature
       id="org.eclipse.help"
       label="%featureName"
-      version="2.3.1400.qualifier"
+      version="2.3.1500.qualifier"
       provider-name="%providerName"
       plugin="org.eclipse.help.base"
       license-feature="org.eclipse.license"
@@ -51,27 +51,6 @@
 
    <plugin
          id="org.apache.jasper.glassfish"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.lucene.analysis-common"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.lucene.core"
-         download-size="0"
-         install-size="0"
-         version="0.0.0"
-         unpack="false"/>
-
-   <plugin
-         id="org.apache.lucene.analysis-smartcn"
          download-size="0"
          install-size="0"
          version="0.0.0"
